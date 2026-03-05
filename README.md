@@ -1,2 +1,2 @@
 # ML_fundamentals
-Practice introductory ML notes.
+Practice introductory ML concepts.
