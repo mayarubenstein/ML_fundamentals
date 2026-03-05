@@ -15,7 +15,6 @@ int main(){
     int iter;
     std::cin >> eta >> iter;
     double w = 0;
-    double fval;
     for (int i = 0; i< iter; i++) {
         w = w - eta * grad_f(w);
         if (i % 100 == 0){
